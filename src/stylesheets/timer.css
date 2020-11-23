@@ -1,0 +1,57 @@
+.timerContente {
+    background: #fff;
+    padding: 10px;
+}
+
+.time {
+    text-align: center;
+    font-size: 22px;
+    margin: 10px 0;
+    color: rgb(26, 117, 26);
+}
+
+.title__timer {
+    margin: 0 0 5px 0;
+    font-size: 18px;
+}
+.projet_timer {
+    margin: 0 0 10px 0;
+    font-size: 14px;
+}
+
+.Pause__button {
+    width: 100%;
+    padding: 8px 0;
+    background: rgb(10, 133, 85);
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+}
+.Pause__button:hover {
+    background: rgb(15, 184, 119);
+    transition: .3s ease-in-out;
+}
+
+.Play__button {
+    width: 100%;
+    padding: 8px 0;
+    background: rgb(150, 32, 58);
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+}
+.Play__button:hover {
+    background: rgb(194, 19, 71);
+    transition: .3s ease-in-out;
+}
+
+.action {
+    margin-bottom: 8px;
+}
+
+.action span {
+    margin: 0 10px;
+    cursor: pointer;
+}

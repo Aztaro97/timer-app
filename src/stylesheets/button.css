@@ -1,0 +1,16 @@
+.Action__btn {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: green;
+    cursor: pointer;
+    border: .5px dotted #000
+}
+
+.Action__btn:hover {
+    transition: .3s all ease-in-out;
+    background: green;
+    color: #fff;
+}
